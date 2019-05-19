@@ -12,15 +12,15 @@ To run the code:
 ## Examples of output: 
 Output after 100 epochs: 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/35329219/57977660-5be8f480-7a40-11e9-9305-f3195883394a.jpg">
+  <img width = 400, height = 400 src="https://user-images.githubusercontent.com/35329219/57977660-5be8f480-7a40-11e9-9305-f3195883394a.jpg">
 </p>
 
 Output after 550 epochs: 
 <p align="center">
-  <img width = 300, height = 300 src="https://user-images.githubusercontent.com/35329219/57977668-85098500-7a40-11e9-946b-91d71974907f.jpg">
+  <img width = 400, height = 400 src="https://user-images.githubusercontent.com/35329219/57977668-85098500-7a40-11e9-946b-91d71974907f.jpg">
 </p>
 
 Output after 1000 epochs: 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/35329219/57977669-9b174580-7a40-11e9-9be4-b91de06c429e.jpg">
+  <img width = 400, height = 400 src="https://user-images.githubusercontent.com/35329219/57977669-9b174580-7a40-11e9-9be4-b91de06c429e.jpg">
 </p>
