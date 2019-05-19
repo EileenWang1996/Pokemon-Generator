@@ -1,7 +1,7 @@
 # Generating Pokemon with Wasserstein Generative Adversarial Networks 
 Generative adversial networks (GANs) are a type of artificial intelligence algorithm where two models are trained simultaneously. The algorithm usually involves two networks, the generator and the discriminator competing against each other in a zero-sum game framework. The main purpose of GANs is to learn the distribution of the training data in order to create new features and generate high-quality images.
 
-This repository contains an implementation of the Wasserstein Generative Adversial Network (wGAN) which aims to generate new pokemon images from a training set of 919 images which was enhanced through data augmentation techniques (such as flipping, rotating, changing contrast etc). The algorithm was trained on Google Colab's free GPU for 1,100 epochs (which took about a day to run). 
+This repository contains an implementation of the Wasserstein Generative Adversial Network (wGAN) using tensorflow which aims to generate new pokemon images from a training set of 919 images which was enhanced through data augmentation techniques (such as flipping, rotating, changing contrast etc). The algorithm was trained on Google Colab's free GPU for 1,100 epochs (which took about a day to run). 
 
 To run the code: 
  - Open the code in Google Colab or copy and paste into Google Colab.
