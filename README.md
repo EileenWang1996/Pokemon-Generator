@@ -17,7 +17,7 @@ Output after 100 epochs:
 
 Output after 550 epochs: 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/35329219/57977668-85098500-7a40-11e9-946b-91d71974907f.jpg">
+  <img width = 300, height = 300 src="https://user-images.githubusercontent.com/35329219/57977668-85098500-7a40-11e9-946b-91d71974907f.jpg">
 </p>
 
 Output after 1000 epochs: 
